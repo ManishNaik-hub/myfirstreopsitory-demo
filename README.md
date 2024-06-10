@@ -1,4 +1,4 @@
-# myfirstreopsitory-demo
+# myfirstrepository-demo
 My first Git Hub Repository.
 <br>
 Author- Manish Naik
